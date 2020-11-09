@@ -4,7 +4,7 @@ set( exe_name set_name )
 # Add the reuired .c and .h files
 set ( exe_sources main.c 
                   ${CMAKE_SOURCE_DIR}/common/console.c
-                  ${CMAKE_SOURCE_DIR}/common/run-time-stats-utils
+                  ${CMAKE_SOURCE_DIR}/common/run-time-stats-utils.c
     )
 
 # Make the executable

@@ -39,7 +39,7 @@ usage() {
     printf "%s | %-25s  %-5s\n" "-c" "--clean"                  "Cleans the build directory"
     printf "%s | %-25s  %-5s\n" "-b" "--build"                  "Builds all the apps"
     printf "%s | %-25s  %-5s\n" "-m" "--make"                   "Uses make instead of ninja"
-    printf "%s | %-25s  %-5s\n" "-l" "--links"                  "Creates a symbolic link of all the executable in the execuatbles dir"
+    printf "%s | %-25s  %-5s\n" "-l" "--links"                  "Creates a symbolic link of all the executable in the executables dir"
     printf "%s | %-25s  %-5s\n" "-p" "--project <project-name>" "Creates a project folder with the provided name based on the template"
     printf "${normal}\n"
     exit 0
