@@ -55,3 +55,5 @@ dkms.conf
 apps/*
 build/*
 executables/*
+.vscode/*
+.DS_Store

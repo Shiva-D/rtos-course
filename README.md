@@ -8,7 +8,7 @@ Run the setup.sh script to clean, build, create a project and link the exe
     -c | --clean                    Cleans the build directory
     -b | --build                    Builds all the apps
     -m | --make                     Uses make instead of ninja
-    -l | --links                    Creates a symbolic link of all the executable in the execuatbles dir
+    -l | --links                    Creates a symbolic link of all the executable in the executables dir
     -p | --project <project-name>   Creates a project folder with the provided name based on the template
     
 Example usage of the `setup.sh`:
