@@ -13,7 +13,7 @@ Run the setup.sh script to clean, build, create a project and link the exe
     
 Example usage of the `setup.sh`:
     
-    # The following command would create a project called assign-2, build and link the exe in the "executables" directory
+    # The following command would create a project called assign-1, build and link the exe in the "executables" directory
     ➜ ./setup.sh -cbl -p assign-1
     
 **NOTE: Currently, all above mentioned functionality will only work on macOS**
